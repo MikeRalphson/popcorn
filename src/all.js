@@ -33,3 +33,4 @@ Popcorn.All = function (core, common, dictionary, passwords, names, network) {
   Popcorn.Names,
   Popcorn.Network);
 
+module.exports = {Popcorn: { All: Popcorn.All }};

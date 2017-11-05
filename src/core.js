@@ -1138,3 +1138,4 @@ Popcorn.Core = function (utils) {
 
 }(Popcorn.Utils);
 
+module.exports = { Popcorn: Popcorn };
