@@ -99,7 +99,7 @@ into a separate library and use with any other generator, for example:
 	repeat(10, randomUser)('user'); // Generates 10 random user names `user-xyz`.
 </code></pre>
 
-Popcors not only support permutations on first attribute level, but on object compositions (currently supported for `permutate()` only), for example:
+Popcorn not only support permutations on first attribute level, but on object compositions (currently supported for `permutate()` only), for example:
 
 <pre><code>
 var generator = {
