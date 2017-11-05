@@ -141,7 +141,7 @@ the generator to the `RandomLib` class defined in Core:
 	RandomLib.myRandGenerator = function() {
 		... 
 		// this.int()(); call to core int() generator
-    //               which returns next int value.
+        //               which returns next int value.
 		... 
 	};
 </code></pre>
