@@ -2,7 +2,7 @@
   "name": "popcorn",
   "version": "1.0.0",
   "description": "Popcorn - the JSON fuzzer",
-  "main": "src/all.js",
+  "main": "src/core.js",
   "directories": {
     "doc": "docs",
     "example": "examples",
