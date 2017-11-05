@@ -15,7 +15,7 @@ or browser side JavaScript code. With Popcorn thousands of test cases
 can be expressed in just few lines of code which makes it a great driver for
 data driven test engines.
 
-You can give it a try at [popcorn maker](http://mu-labs.googlecode.com/svn/trunk/eng/tools/popcorn/popcorn_maker.html).
+You can give it a try at [popcorn maker](https://mikeralphson.github.io/popcorn/popcorn_maker.html).
 
 ## Getting started
 
@@ -52,7 +52,7 @@ For example:
 
 In the basics, generators are functions that take one argument value 
 and return a result value with an optional state. Core function
-`gen()` creates the most basic generator that substituts any input with
+`gen()` creates the most basic generator that substitutes any input with
 the parameter value passed to `gen()`.
 <pre><code>
 	var g = gen('test'); // Create a generator g with value 'test'.
@@ -111,8 +111,8 @@ var generator = {
 };
 </code></pre>
 
-Try [popcorn_maker.html](http://mu-labs.googlecode.com/svn/trunk/eng/tools/popcorn/popcorn_maker.html)
-and see [API documentation](http://mu-labs.googlecode.com/svn/trunk/eng/tools/popcorn/docs/api_dev/index.html)
+Try [popcorn_maker.html](https://mikeralphson.github.io/popcorn/popcorn_maker.html)
+and see [API documentation](https://mikeralphson.github.io/popcorn/docs/api_dev/index.html)
 for more information and the complete generator list.
 
 ## Random generators

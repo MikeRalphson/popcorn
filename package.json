@@ -1,0 +1,31 @@
+{
+  "name": "popcorn",
+  "version": "1.0.0",
+  "description": "Popcorn - the JSON fuzzer",
+  "main": "src/all.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeralphson/popcorn.git"
+  },
+  "keywords": [
+    "json",
+    "fuzzer",
+    "fuzzing",
+    "testing"
+  ],
+  "author": "Adam Smyczek",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mikeralphson/popcorn/issues"
+  },
+  "homepage": "https://github.com/mikeralphson/popcorn#readme"
+}
